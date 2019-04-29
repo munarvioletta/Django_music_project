@@ -1,4 +1,16 @@
 body{
     background: white url("images/background_image.png");
-    background-size: 100% 100%
+    background-size: 1680px 1000px
+ }
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
+
+.obrazek{
+    width: 30%
 }
